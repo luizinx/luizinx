@@ -1,13 +1,11 @@
 ### Olá! Eu sou o Luiz Fernando 👋 
-</br>
-Redes de contato: 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-fernando-ribeiro-rocha)
+
 
 <div align="center">
   <a href="https://github.com/luizinx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizinx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinx&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=luizinx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ### Ferramentas que trabalho no dia a dia e tenho conhecimento.
@@ -21,3 +19,7 @@ Redes de contato:
 </div></br>
 
 Sempre em busca de mais conhecimento além do mais "A tecnologia sempre evolui".
+***
+Redes de contato: 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-fernando-ribeiro-rocha)
