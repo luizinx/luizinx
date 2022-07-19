@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Luiz Fernando 👋 
-
+</br>
 
 
 <div align="center">
-  <a href="https://github.com/luizinx">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=luizinx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
