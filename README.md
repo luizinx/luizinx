@@ -3,9 +3,9 @@
 </br>
 
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizinx&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinx&layout=compact&langs_count=7&theme=tokyonight"/>
+<div style='diplay: inline_block'>
+  <img aling='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=luizinx&show_icons=true&theme=tokyonight"/>
+  <img aling='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizinx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div></br>
 
 ### Ferramentas que trabalho no dia a dia e tenho conhecimento.
