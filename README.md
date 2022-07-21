@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luiz Fernando 👋
+### Olá! Meu nome é Luiz Fernando 👋
 
 ***
 <div align='center'>
