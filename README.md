@@ -1,4 +1,5 @@
-### Olá! Meu nome é Luiz Fernando 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonatan+Brayan;I'm+18+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+🎯  Sou Dedicado e esforçado aos meus objetivos!<br>👨‍💻  Atualmente trabalho com desenvolvimento Backend.<br>🧠  Busco oportunidade de crescimento onde eu posso aprender e contribuir com o meu melhor!
 
 ***
 <div align='center'>
